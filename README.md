@@ -5,3 +5,5 @@ Performance Comparison of various Eligibility Traces on Maze Task. Q-Learning al
 3) Accumulating Traces
 
 Run corresponding files to generate performance measures. Images uploaded for reference.
+
+For a detailed discussion, visit : https://sridhartee.blogspot.in/2016/09/comparison-of-types-of-eligibility.html
